@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['hwanginbeom@gmail.com']
   spec.description   = %q{Capistrano recipe for running multiple processes with multiple configurations}
   spec.summary       = %q{Run sidekiq with multiple configuration}
-  spec.homepage      = 'https://github.com/inbeom/multilevel_capistrano'
+  spec.homepage      = 'https://github.com/inbeom/multilevel_sidekiq'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
