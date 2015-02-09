@@ -29,7 +29,7 @@ Or install it yourself as:
 
 ## Usage
 
-Load `multilevel_sidekiq/capistrano'` in your `deploy.rb`.
+Load `'multilevel_sidekiq/capistrano'` in your `deploy.rb`.
 
     require 'multilevel_sidekiq/capistrano'
 
